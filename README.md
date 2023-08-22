@@ -12,8 +12,8 @@ Compliance with FRASCATI's funding requirements is of paramount importance. By a
 
 This repository serves as my own solution. Here's what you'll find:
 
-Materials/: This directory contains the competition's materials including the instructions and a written discussion in German that will be used to create the project description.
+[Materials]([URL](https://github.com/Rim-chan/Prompt-Engineering/tree/main/Materials)) : This directory contains the competition's materials including the instructions and a written discussion in German that will be used to create the project description.
 
-GPEW_Final_Submission: In this Jupyter Notebook, I present my approach using Langchain and gpt-3.5-turbo, offering an alternative perspective to the chatGPT solution. Gain insights into how GPT-3.5-Turbo interpreted the prompts and skillfully aligned them with the stringent requirements of the FRASCATI framework.
+[GPEW_Final_Submission]([URL](https://github.com/Rim-chan/Prompt-Engineering/blob/main/GPEW_Final_Submission.ipynb)) : In this Jupyter Notebook, I present my approach using Langchain and gpt-3.5-turbo, offering an alternative perspective to the chatGPT solution. Gain insights into how GPT-3.5-Turbo interpreted the prompts and skillfully aligned them with the stringent requirements of the FRASCATI framework.
 
-Results/: Here, you'll find the final project description crafted based on the AI-generated messages.
+[Results]([URL](https://github.com/Rim-chan/Prompt-Engineering/tree/main/Results)) : Here, you'll find the final project description crafted based on the AI-generated messages.
